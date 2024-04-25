@@ -4,5 +4,5 @@
 *University of Bristol*  
 *Psychology Undergraduate Dissertation Project*
 
-This project aimed to investigate cumulative cultural evolution (CCE) in humans through a navigation task. The repository contains all the code utilized for the experiment. Feedback is highly appreciated.
+This project aimed to investigate cumulative cultural evolution (CCE) in humans through a navigation task. The repository contains all the code used in the experiment. Feedback is highly appreciated.
 
