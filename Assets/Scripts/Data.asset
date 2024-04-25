@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff6d90f7ce2e5b2409f44350c5e73fdd, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  age: 21
+  consent: 1
+  participant_id: fc4b493e
+  debugLastID: 0
+  curSession: 
+  curRun: 
+  curScene: CCE Experiment
+  rn: 0
+  col_1: 0
+  col_2: 0
+  nr: 0
+  myTurn: 1
+  formsComplete: 0

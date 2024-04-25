@@ -1,0 +1,1 @@
+These prefabs are for testing. Game objects, buildings, etc are in /Resources for WebGL compatibility. 

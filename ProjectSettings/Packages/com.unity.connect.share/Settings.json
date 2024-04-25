@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/willb/OneDrive/Desktop/prolific 8;C:/Users/willb/OneDrive/Desktop/prolific 7;C:/Users/willb/OneDrive/Desktop/prolific 6;C:/Users/willb/OneDrive/Desktop/prolific build 3;C:/Users/willb/OneDrive/Desktop/proliifc build 2;C:/Users/willb/OneDrive/Desktop/my prolific build;C:/Users/willb/OneDrive/Desktop/last;C:/Users/willb/OneDrive/Desktop/CCE FINAL 4;C:/Users/willb/OneDrive/Desktop/DIffusion Mark 1;C:/Users/willb/OneDrive/Desktop/CCE Final Mark 2\"}"
+            }
+        ]
+    }
+}
