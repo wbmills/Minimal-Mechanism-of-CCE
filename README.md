@@ -1,3 +1,4 @@
 # Minimal-Mechanism-of-CCE
 
-William Mills - University of Bristol Undergraduate Dissertation Project
+William Mills - University of Bristol 
+Psychology Undergraduate Dissertation Project
